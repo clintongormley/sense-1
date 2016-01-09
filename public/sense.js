@@ -1,5 +1,5 @@
 require('ace');
-
+require('ui/autoload/styles');
 require('ui-bootstrap-custom');
 require('ui/modules').get('kibana', ['sense.ui.bootstrap']);
 

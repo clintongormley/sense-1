@@ -1,5 +1,5 @@
 require('ace');
-
+require('ui/autoload/styles');
 require('ui/chrome')
   .setBrand({
     logo: 'url(/plugins/sense/favicon.ico) center no-repeat',
